@@ -77,7 +77,7 @@ Create a tag name “Three_tire_RT”
 Select from VPC Drop-down “three_tire”
 Click on create route table
 Click on edit routes
-Click on Add route  enter 10.0.0.0 
+Click on Add route  enter 0.0.0.0/0 
 From the drop down select the internet gateway 
 This pop-up the Internet Gatewat(three_tire_IGW)
 Click Add Save changes
